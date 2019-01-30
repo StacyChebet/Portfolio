@@ -1,0 +1,31 @@
+body {
+    background-color: white;
+}
+img {
+    height: 750px;
+    width: 100%;
+    filter: brightness(30%);
+}
+/* ul a {
+    color: goldenrod;
+    margin-right: 100px;
+    font-size: 30px;
+    font-weight: bolder;
+} */
+
+.image {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+  font-size: 34px;
+  font-style: oblique;
+}
+.about {
+    font-size: 36px;
+    font-family: 'Dosis', sans-serif;
+}
