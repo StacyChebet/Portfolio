@@ -15,8 +15,8 @@ img {
 
 .image {
     position: relative;
-    text-align: center;
-    color: white;
+    color: #66FCF1;
+    
 }
 .bottom-left {
   position: absolute;
