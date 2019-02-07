@@ -15,7 +15,8 @@ img {
 
 .image {
     position: relative;
-    color: #66FCF1;
+    color: #FFF;
+    background-size: cover;
     
 }
 .bottom-left {
